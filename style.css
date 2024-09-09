@@ -1,0 +1,40 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  text-align: center;
+  color: gold;
+  text-shadow: 2px 2px black
+}
+h2.one {
+  background-color: rgb(149, 225, 149);
+  width: 427px;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+h2.two {
+  background-color: aqua;
+  width: 427px;
+  border: 1px solid black;
+  padding: 5px;
+}
+section {
+  background-color: rgb(176, 176, 176);
+  width: 200px;
+  margin: 2px 5px 2px 5px;
+  border: 1px solid black;
+  padding: 5px;
+}
+img {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  padding: 5px;
+}
+.pantry {
+  display: flex;
+}
+.fridge {
+  display: flex;
+}
